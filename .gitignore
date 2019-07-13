@@ -1,0 +1,22 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+Last Video.txt
+/.vscode
+/public/design/adminlte/pages
+/public/design/ustora/index.html
+/public/design/ustora/cart.html
+/public/design/ustora/checkout.html
+/public/design/ustora/shop.html
+/public/design/ustora/single-product.html
+/public/design/ustora/style.css
+/public/design/ustora/ucommerce-screen.jpg
+/public/design/ustora/ustora.jpg
